@@ -1,7 +1,6 @@
 # ToDo-App
 
 A sample ToDo-list web app project.
-This project was a part of an online web development course on Udemy platform!
 
 Technologies used:
 <ul>
